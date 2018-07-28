@@ -155,7 +155,7 @@ elseif($text=="davide perino")
 
 Adesso ti basta far scrivere al tuo caposquadra nel gruppo Facebook AnimatoriAO2018
 	
-Abbiamo capito tutto!!!
+Abbiamo capito tutto!!a!
 La squadra <COLORE> dichiara:
 IL COMITATO REGNA!!!
 <INIZIALI DEI 2 CAPI SQUADRA>
