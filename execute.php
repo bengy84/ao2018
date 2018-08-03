@@ -31,27 +31,27 @@ elseif($text=="parodio")
 }
 elseif($text=="mune")
 {
-	$response = "https://drive.google.com/open?id=1l9JPttqrCDKGX0bWU-Zr2hiaW36NLyz0";
+	$response = "https://drive.google.com/open?id=1h9mAq6UiAKLkz8wjTDb8gbO8v2oQ7tLa";
 }
 elseif($text=="glim")
 {
-	$response = "https://drive.google.com/open?id=1FgJ6MBchfzLtUw7GBAVjjddaz4CndOFg";
+	$response = "https://drive.google.com/open?id=1SvS1WrYC1pvAr4aObOlpCuggorLrOHNf";
 }
 elseif($text=="xolal")
 {
-	$response = "https://drive.google.com/open?id=171z-sDF5ZtndDi-QuhHNXyaraxAjS9qD";
+	$response = "https://drive.google.com/open?id=1SPec2xUXn3YyXtCNVNCktFU5dIARkioY";
 }
 elseif($text=="sohone")
 {
-	$response = "https://drive.google.com/open?id=1YL4emXiFgTwP_EPEi5pcGKROUwpWMcu8";
+	$response = "https://drive.google.com/open?id=1HOpNsjX1uZN8X-682rcVXCSzlkIbCFyx";
 }
 elseif($text=="groupie")
 {
-	$response = "https://drive.google.com/open?id=1Shc_dddKVmZRfTSVf4xxmSE7I1KmYKcA";
+	$response = "https://drive.google.com/open?id=1_9R5ogUd4GEyWXCuLzad3W0cBV_KjPcD";
 }
 elseif($text=="yule")
 {
-	$response = "https://drive.google.com/open?id=13iAeXsfQiQ0q6p_RD9pyXmcwwY8hbCLn";
+	$response = "https://drive.google.com/open?id=1oBcKPDoBPMCaYRiaY6oa_JFdnOOVi7Q0";
 }
 elseif($text=="ana")
 {
