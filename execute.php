@@ -29,6 +29,30 @@ elseif($text=="parodio")
 {
 	$response = "https://www.google.it/maps/place/40%C2%B037'08.3%22N+15%C2%B003'22.6%22E/@40.618978,15.056284,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d40.618978!4d15.056284";
 }
+elseif($text=="mune")
+{
+	$response = "https://drive.google.com/open?id=1l9JPttqrCDKGX0bWU-Zr2hiaW36NLyz0";
+}
+elseif($text=="glim")
+{
+	$response = "https://drive.google.com/open?id=1FgJ6MBchfzLtUw7GBAVjjddaz4CndOFg";
+}
+elseif($text=="xolal")
+{
+	$response = "https://drive.google.com/open?id=171z-sDF5ZtndDi-QuhHNXyaraxAjS9qD";
+}
+elseif($text=="sohone")
+{
+	$response = "https://drive.google.com/open?id=1YL4emXiFgTwP_EPEi5pcGKROUwpWMcu8";
+}
+elseif($text=="groupie")
+{
+	$response = "https://drive.google.com/open?id=1Shc_dddKVmZRfTSVf4xxmSE7I1KmYKcA";
+}
+elseif($text=="yule")
+{
+	$response = "https://drive.google.com/open?id=13iAeXsfQiQ0q6p_RD9pyXmcwwY8hbCLn";
+}
 elseif($text=="ana")
 {
 	$response = "https://www.google.it/maps/place/40%C2%B037'11.2%22N+15%C2%B003'25.3%22E/@40.619779,15.0548503,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d40.619779!4d15.057039";
